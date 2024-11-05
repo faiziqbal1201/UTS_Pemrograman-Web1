@@ -16,9 +16,9 @@
 ![](image/aii.png)
 ![](image/d.png)
 
-## 2. Menjalankan MySQL Server
+## 2. Menjalankan Apache Server
 
-Menjalankan MySQL dari menu **XAMPP Control.**
+Menjalankan Apache dari menu **XAMPP Control.**
 
 ![](image/2024-10-31.png)
 
@@ -109,7 +109,7 @@ Pastikan webserver Apache sudah dijalankan. Kemudian untuk mengakses direktory t
 </html>
 ```
 
-### Menambahkan Data navabar
+### Menambahkan Data navbar
 
 ```
 <nav class="navbar bg-dark navbar-expand-md bg-body-tertiary" data-bs- theme="dark">
